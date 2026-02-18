@@ -12,3 +12,19 @@ A proposta é simular um fluxo de trabalho profissional, organizando o repositó
 
 - **Isabelle Morales** — Líder do Projeto  
 - **Gabriel Florindo** — Revisor de Qualidade
+
+
+</br>
+</br>
+
+# Como rodar o projeto
+
+Para rodar o projeto, primeiro é necessário ter o nodeJS instalado, segue o link:
+
+<a href="https://nodejs.org/en/download">Instalação NodeJS</a>
+
+Após instalar, para rodar o projeto, abra um terminal da raiz do projeto e digite:
+
+```bash
+node index.js
+```
