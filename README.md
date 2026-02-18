@@ -1,8 +1,10 @@
-# LAB3_CODREVIEW
+Projeto Acadêmico – Operação Qualidade de Código no GitHub
 
-Olá! Estamos trabalhando em um projeto acadêmico , onde o foco é a Operação Qualidade de Código com o Desafio do Code Review no GitHub a ideia é configurar um fluxo de trabalho profissional no GitHub, onde um dos integrantes será o Lider do Projeto e o outro, o Revisor de Qualidade.
+Olá!
+Estamos desenvolvendo um projeto acadêmico focado na Operação Qualidade de Código, com o desafio de implementar um processo estruturado de Code Review no GitHub.
 
-INTEGRANTES: 
+A proposta é simular um fluxo de trabalho profissional, organizando o repositório e as entregas de forma colaborativa, com responsabilidades bem definidas entre os integrantes da equipe. O objetivo é garantir boas práticas de versionamento, revisão de código e padronização antes da aprovação de cada alteração.
 
-ISABELLE MORALES - LÍDER DO PROJETO
-GABRIEL FLORINDO - REVISOR DE QUALIDADE
+**Integrantes e funções:*
+	•	Isabelle Morales — Líder do Projeto
+	•	Gabriel Florindo — Revisor de Qualidade
