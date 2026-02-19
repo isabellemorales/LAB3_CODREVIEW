@@ -12,7 +12,7 @@ A proposta é simular um fluxo de trabalho profissional, organizando o repositó
 
 - **Isabelle Morales** — Líder do Projeto  
 - **Gabriel Florindo** — Revisor de Qualidade
-
+teste
 
 </br>
 </br>
